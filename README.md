@@ -28,7 +28,6 @@ In this notebook, we analyze a dataset of beer ratings and use machine learning 
 ## Conclusion
 
 This project demonstrates how various machine learning models and techniques can be applied to predict beer ratings. The models consistently achieved good performance, and there are several avenues for future improvements to make predictions even more accurate.
-
 ## Installation
 
 To run this project, clone the repository and install the necessary dependencies:
@@ -37,3 +36,5 @@ To run this project, clone the repository and install the necessary dependencies
 git clone https://github.com/monster-migrate/beer-ratings.git
 cd beer-ratings
 pip install -r requirements.txt
+
+
